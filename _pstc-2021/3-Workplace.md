@@ -26,7 +26,7 @@ Addressing the impact of hybrid work environments on individuals, this webinar w
 <b>Time:</b> 2.30pm – 4pm<br> 
 <br>
 <b>Speakers</b><br>
-• Adj A/Prof Daniel Fung Shuen Sheng, Chief Executive Officer, IMH <br>
+• Adj A/Prof Daniel, Chief Executive Officer, IMH <br>
 •	Dr. Tan Weng Mooi, Director (Programmes, InHealth) & Co-Head (Integrated Health Promotion), MOH Office for Healthcare Transformation <br>
 • Adj A/Prof Majeed Khader, Chief Psychologist, Ministry of Home Affairs & Director, Home Team Behavioural Sciences Centre <br>
 •	Adj A/Prof Clare Yeo, Head CARE, MOH & Senior Principal Clinical Psychologist, IMH <i>[Moderator] </i>
