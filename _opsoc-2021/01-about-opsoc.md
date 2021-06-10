@@ -3,12 +3,10 @@ title: 'About OPSOC'
 permalink: /opsoc-2021/about
 ---
 
-<h3 style="color:red;"><b>REGISTER NOW</b></h3>
-<i>The event is open to all public officers</i><br>
+<b>CLICK <a href="https://go.gov.sg/opsoc2021registration"><b>HERE</b></a> TO REGISTER FOR OPSOC2021. </b><br>
 <b>Time and Date</b>: 9 July 2021, 2.15pm - 3.30pm<br>
 <b>Virtual Platform</b>: Zoom Webinar<br>
-<b>Registration</b>: Scan the QR code below or CLICK <a href="https://go.gov.sg/opsoc2021registration"><b>HERE</b></a> TO REGISTER for OPSOC.<br>
-<center><a href="https://go.gov.sg/opsoc2021registration"><img src="/images/OPSOC_Registration.png" height="200"></a></center><br>
+<i>The event is open to all public officers</i><br>
 <br>
 <h3 style="color:red;">OPSOC Teaser Video</h3>
 <div class="bp-youtube">
