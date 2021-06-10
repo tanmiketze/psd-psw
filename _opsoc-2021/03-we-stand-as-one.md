@@ -21,7 +21,7 @@ Get creative! Present your video entries virtually as a song, dance, cheer or dr
   </tr>
  </table>
 <br>
-Registration closes 11 June 2021, 6pm. Only the first 50 registrants will be considered. [Terms and Conditions](/opsoc-2021/terms-and-conditions) apply.<br>
+Registration closes 18 June 2021, 6pm. Only the first 50 registrants will be considered. [Terms and Conditions](/opsoc-2021/terms-and-conditions) apply.<br>
 <br>
 <b>Scan the QR code below or click <a href="https://go.gov.sg/zf6vss" target="_blank">here</a> to enter yourself/your group into the contest by 11 June!</b><br>
 <table width="100%">
