@@ -14,7 +14,8 @@ permalink: /opsoc-2021/about
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U-JbF5ayBgo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-<i><b>NOTE:</b> Recommended to view the video on Youtube/Google Chrome. Viewing on Internet Explorer (IE) may cause your browser to crash.</i><br>
+<br>
+<b>NOTE:</b><i>Recommended to view the video on Youtube/Google Chrome.</i><br>
 <br>
 <h3>About</h3>
 The One Public Service Observance Ceremony is an annual platform for officers to recommit and reinforce our purpose as public officers to do our best in service to our nation.<br>
