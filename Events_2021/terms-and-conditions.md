@@ -49,7 +49,7 @@ permalink: /opsoc-2021/terms-and-conditions
 <br>
 <h4>How to Participate</h4>
 <ol>
-  <li>Participants must complete an online registration form on Forms.sg by 11 June 2021, 6.00pm to indicate their interest in participating in the video challenge. The link for the registration form will be sent to all public officers on 21 May 2021 in an official publicity email from PSD. </li>
+  <li>Participants must complete an online registration form on Forms.sg by 18 June 2021, 6.00pm to indicate their interest in participating in the video challenge. The link for the registration form will be sent to all public officers on 21 May 2021 in an official publicity email from PSD. </li>
   <li>Only the first 50 registrants will be eligible to enter the challenge. Any registration of an individual or team after the first 50 may not be eligible to be included in the challenge. </li>
   <li>The Committee will liaise with the team leader via official Singapore Civil Defence Force (SCDF) email for correspondence as SCDF is the co-organiser for OPSOC 2021. </li>
   <li>The committee will then email the team leader a link to upload their video entry. The team must upload their video entry by 18 June 2021, 6.00pm; failing to do so will result in immediate disqualification.</li>
