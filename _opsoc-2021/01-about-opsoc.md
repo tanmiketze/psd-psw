@@ -10,10 +10,11 @@ permalink: /opsoc-2021/about
 <b>Registration</b>: Scan the QR code below or CLICK <a href="https://go.gov.sg/opsoc2021registration"><b>HERE</b></a> TO REGISTER for OPSOC.<br>
 <center><a href="https://go.gov.sg/opsoc2021registration"><img src="/images/OPSOC_Registration.png" height="200"></a></center><br>
 <br>
-<h3 style="color:red;">OPSOC Teaser Video</h3><div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U-JbF5ayBgo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-  <i><b>NOTE:</b> Recommended to view the video on Youtube/Google Chrome. Viewing on Internet Explorer (IE) may cause your browser to crash.</i><br>
+<h3 style="color:red;">OPSOC Teaser Video</h3>
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U-JbF5ayBgo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+<i><b>NOTE:</b> Recommended to view the video on Youtube/Google Chrome. Viewing on Internet Explorer (IE) may cause your browser to crash.</i><br>
 <br>
 <h3>About</h3>
 The One Public Service Observance Ceremony is an annual platform for officers to recommit and reinforce our purpose as public officers to do our best in service to our nation.<br>
