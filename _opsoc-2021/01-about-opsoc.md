@@ -9,7 +9,6 @@ permalink: /opsoc-2021/about
 <b>Virtual Platform</b>: Zoom Webinar<br>
 <b>Registration</b>: Scan the QR code below or click <a href="https://go.gov.sg/opsoc2021registration">here</a> to register for OPSOC.<br>
 <center><a href="https://go.gov.sg/opsoc2021registration"><img src="/images/OPSOC_Registration.png" height="200"></a></center><br>
-<br>
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U-JbF5ayBgo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
