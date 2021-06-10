@@ -3,14 +3,16 @@ title: 'About OPSOC'
 permalink: /opsoc-2021/about
 ---
 
-<h3 style="color:red;">OPSOC Teaser Video</h3>
+<h3 style="color:red;"><b>REGISTER NOW</b></h3>
 <i>The event is open to all public officers</i><br>
 <b>Time and Date</b>: 9 July 2021, 2.15pm - 3.30pm<br>
 <b>Virtual Platform</b>: Zoom Webinar<br>
-<b>Registration</b>: Scan the QR code below or click <a href="https://go.gov.sg/opsoc2021registration">here</a> to register for OPSOC.<br>
+<b>Registration</b>: Scan the QR code below or CLICK <a href="https://go.gov.sg/opsoc2021registration"><b>HERE</b></a> TO REGISTER for OPSOC.<br>
 <center><a href="https://go.gov.sg/opsoc2021registration"><img src="/images/OPSOC_Registration.png" height="200"></a></center><br>
-<div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U-JbF5ayBgo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+<h3 style="color:red;">OPSOC Teaser Video</h3><div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U-JbF5ayBgo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+  <i><b>NOTE:</b> Recommended to view the video on Youtube/Google Chrome. Viewing on Internet Explorer (IE) may cause your browser to crash.</i><br>
 </div>
 <br>
 <h3>About</h3>
