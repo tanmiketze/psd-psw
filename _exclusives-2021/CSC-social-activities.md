@@ -17,10 +17,10 @@ Public Service Officers can enjoy Free Online Social Activities in July! Did you
 			A talk that addresses the challenges of sticking to a healthy yet yummy diet for the busy individual. Our Nutrition Educator will incorporate a fun mini activity on “the how to” of choosing nutrient dense vs calorie dense Singaporean food and hawker dishes. Practical eating tips to prevent chronic lifestyle diseases for busy office folks, frequent travellers and road warriors, and those who dine out often are also emphasised. We will also cover the time and speed of eating and how it affects our food intake. Eat Well! Live Well!
 			<br>
 			<br>
-			Date: Thursday, 1 July '21 <br>
-			Time: 10am - 11am <br>
+			Date: Wednesday, 7 July '21 <br>
+			Time: 3pm - 4pm <br>
 			To register: Contact Jerren at 63915641 or jerrentan@csc.sg<br>
-			Register by: 30 June '21 <br>
+			Register by: 1 week before session <br>
 			<br>
 		</td>
 		<td width="33%">
@@ -34,9 +34,9 @@ Public Service Officers can enjoy Free Online Social Activities in July! Did you
 			<br>
 			<br>
 			Date: Thursday, 1 July '21 <br>
-			Time: 10am - 11am <br>
+			Time: 3pm - 4pm <br>
 			To register: Contact Jerren at 63915641 or jerrentan@csc.sg<br>
-			Register by: 24 June '21 <br>
+			Register by: 1 week before session <br>
 			<br>
 		</td>
 		<td width="33%">
