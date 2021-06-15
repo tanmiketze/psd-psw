@@ -63,7 +63,7 @@ The Interactive Telematch shall comprise three telematch games. The points from 
 <i> Team Managers of participating organisations are required to attend a meeting to be held on <b> Thursday, 4 July 2019 (tentative) at 3.00pm at the Board Room, 4th Storey, Civil Service Club, 60 Tessensohn Road. </b></i>
 
 <br>
-For more information, download the rules [here](/documents/Dragon Boat Race 2019.pdf/) <br>
+For more information, download the rules [here](/files/Dragon Boat Race 2019.pdf/) <br>
 <br>
 <a href="https://www.csc.sg/stargames/Event-Listing-Civil-Service-Club-Tournament-Registration"><img src="/images/sign-up-btn.png" style="width:280px" />
 
