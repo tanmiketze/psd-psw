@@ -1,9 +1,9 @@
 ---
-title: 'We Stand as One'
-permalink: /opsoc-2021/we-stand-as-one
+title: 'We Stand as One Latest'
+permalink: /opsoc-2021/we-stand-as-one-latest
 ---
 
-### We Stand as One
+### We Stand as One LATEST
 <br>
 We reached out and they answered. Their words of encouragement are specially for YOU!<br>
 <br>
