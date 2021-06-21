@@ -20,8 +20,48 @@ Cast your votes by liking the videos on the “[WOG] FYI” Workplace page here 
     <th width="70%">Screengrab of Video</th>
   </tr>
   <tr>
-    <td>1</td>
+    <td align="center">1</td>
     <td>Hose & Reel (SCDF)</td>
+    <td align="center"><img src="/images/WSAO1-Hose%26Reel_SCDF.png" alt="Hose & Reel" height="200px"></td>
+  </tr>
+  <tr>
+    <td align="center">2</td>
+    <td>Stamford Primary School SLS Rap (MOE)</td>
+    <td align="center"><img src="/images/WSAO1-Hose%26Reel_SCDF.png" alt="Hose & Reel" height="200px"></td>
+  </tr>
+  <tr>
+    <td align="center">3</td>
+    <td>AST Team 1 (MOE)</td>
+    <td align="center"><img src="/images/WSAO1-Hose%26Reel_SCDF.png" alt="Hose & Reel" height="200px"></td>
+  </tr>
+  <tr>
+    <td align="center">4</td>
+    <td>AST Team 2 (MOE)</td>
+    <td align="center"><img src="/images/WSAO1-Hose%26Reel_SCDF.png" alt="Hose & Reel" height="200px"></td>
+  </tr>
+  <tr>
+    <td align="center">5</td>
+    <td>Banyan Team 1 (SCDF)</td>
+    <td align="center"><img src="/images/WSAO1-Hose%26Reel_SCDF.png" alt="Hose & Reel" height="200px"></td>
+  </tr>
+  <tr>
+    <td align="center">6</td>
+    <td>Banyan Team 2 (SCDF)</td>
+    <td align="center"><img src="/images/WSAO1-Hose%26Reel_SCDF.png" alt="Hose & Reel" height="200px"></td>
+  </tr>
+  <tr>
+    <td align="center">7</td>
+    <td>Central Fire Station (SCDF)</td>
+    <td align="center"><img src="/images/WSAO1-Hose%26Reel_SCDF.png" alt="Hose & Reel" height="200px"></td>
+  </tr>
+  <tr>
+    <td align="center">8</td>
+    <td>SSO @ Ang Mo Kio & Yishun (MSF)</td>
+    <td align="center"><img src="/images/WSAO1-Hose%26Reel_SCDF.png" alt="Hose & Reel" height="200px"></td>
+  </tr>
+  <tr>
+    <td align="center">9</td>
+    <td>mediaboys (MOE)</td>
     <td align="center"><img src="/images/WSAO1-Hose%26Reel_SCDF.png" alt="Hose & Reel" height="200px"></td>
   </tr>
  </table>
