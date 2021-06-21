@@ -11,7 +11,8 @@ Fellow officers submitted their videos to rally the public service to stand in s
 <br>
 The winning 5 entries will be showcased ‘live’ during the pre-event segment of OPSOC 2021. Register for OPSOC here.<br>
 <br>
-Cast your votes by liking the videos on the “[WOG] FYI” Workplace page here by 9am on 9 July.
+Cast your votes by liking the videos on the “[WOG] FYI” Workplace page here by 9am on 9 July.<br>
+<br>
 <table width="100%" border="1">
   <tr>
     <th width="5%">S/No</th>
@@ -21,7 +22,7 @@ Cast your votes by liking the videos on the “[WOG] FYI” Workplace page here 
   <tr>
     <td>1</td>
     <td>Hose & Reel (SCDF)</td>
-    <td><img src="/images/WSAO1-Hose%26Reel_SCDF.png" alt="Hose & Reel" height="200px"></td>
+    <td align="center"><img src="/images/WSAO1-Hose%26Reel_SCDF.png" alt="Hose & Reel" height="200px"></td>
   </tr>
  </table>
 
