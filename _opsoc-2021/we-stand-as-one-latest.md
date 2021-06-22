@@ -11,7 +11,7 @@ Fellow officers submitted their videos to rally the public service to stand in s
 <br>
 The winning 5 entries will be showcased ‘live’ during the pre-event segment of OPSOC 2021. Register for OPSOC here.<br>
 <br>
-Cast your votes by liking the videos on the “[WOG] FYI” Workplace page here by 9am on 9 July.<br>
+Cast your votes by liking the videos on the “[WOG] FYI” Workplace page <a href="https://onepublicservice.workplace.com/groups/wogfyi/permalink/2881982702066927/"><b>here</b></a> by 9am on 9 July.<br>
 <br>
 <table width="100%" border="1">
   <tr>
