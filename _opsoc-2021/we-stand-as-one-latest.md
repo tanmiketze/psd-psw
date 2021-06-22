@@ -52,7 +52,7 @@ Cast your votes by liking the videos on the “[WOG] FYI” Workplace page here 
   <tr>
     <td align="center">7</td>
     <td>Central Fire Station (SCDF)</td>
-    <td align="center"><img src="/images/WSAO7-Central_FS_SCDF.png" alt="Central Fire Station" height="200px"></td>
+    <td align="center"><img src="/images/WSAO7-Central_FS%20_SCDF.png" alt="Central Fire Station" height="200px"></td>
   </tr>
   <tr>
     <td align="center">8</td>
