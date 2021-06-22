@@ -9,9 +9,9 @@ We reached out and they answered. Their words of encouragement are specially for
 <br>
 Fellow officers submitted their videos to rally the public service to stand in solidarity as One. These teams stand to win vouchers worth up to $400. YOU get to decide the winner!<br>
 <br>
-The winning 5 entries will be showcased ‘live’ during the pre-event segment of OPSOC 2021. Register for OPSOC <a href="https://go.gov.sg/opsoc2021registration"><b>here</b></a>.<br>
-<br>
 Hit the 'Like' button of favourite videos, which are on the <a href="https://onepublicservice.workplace.com/groups/wogfyi/permalink/2881982702066927/"><b>“[WOG] FYI” Workplace</b></a> page. Voting closes on 9 July 2021 at 9.00am.<br>
+<br>
+The winning 5 entries will be showcased ‘live’ during the pre-event segment of OPSOC 2021. Register for OPSOC <a href="https://go.gov.sg/opsoc2021registration"><b>here</b></a>.<br>
 <br>
 <table width="100%" border="1">
   <tr>
